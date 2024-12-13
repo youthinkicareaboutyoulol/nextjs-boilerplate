@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://gcfinance.shop/app",
+      "permanent": true
+    }
+  ]
+}
